@@ -16,20 +16,16 @@
     <h2 class="En2">
     / Inicio /
     </h2>
-    <h2 class="En3">
-    Menu
-    </h2>
+   
+    <button class="button-59">
+            <a href="P2-¿Quienes somos.html"> Repositorio de articulos </a>
+    </button> 
 
     <hr>
 
 </header>
 
 <body>
-
-        <button class="button-59">
-            <a href="P2-¿Quienes somos.html"> Repositorio de articulos </a>
-        </button> 
-
     <form method="post">
         
     <h1> Blog de Jose Fuertes </h1>
