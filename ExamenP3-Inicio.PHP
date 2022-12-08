@@ -27,7 +27,9 @@
         include("ExamenP3-Registro.PHP");
     ?>
 
-<input type="submit" name="registerw">
+        <button class="button-59">
+            <a href="P2-¿Quienes somos.html"> Repositorio de articulos </a>
+        </button> 
 
 </body>
 </html>
