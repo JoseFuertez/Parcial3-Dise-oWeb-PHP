@@ -32,7 +32,7 @@ $conexion=mysqli_connect('localhost','root','', 'registro')
 
 <body>
     
-    <table>
+    <table class="cinereousTable">>
         <tr>
             <td>Titulo</td>
             <td>Imagen</td>
