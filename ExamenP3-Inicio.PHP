@@ -21,13 +21,13 @@
 
     <input type="submit" name="register">
 
-    <input type="submit" name="registerw">
-
     </form>
 
     <?php 
         include("ExamenP3-Registro.PHP");
     ?>
+
+<input type="submit" name="registerw">
 
 </body>
 </html>
