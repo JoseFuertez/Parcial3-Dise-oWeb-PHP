@@ -32,13 +32,13 @@ $conexion=mysqli_connect('localhost','root','', 'registro')
 
 <body>
     
-    <table class="cinereousTable">>
+    <table class="paleBlueRows">>
         <tr>
-            <td>Titulo</td>
-            <td>Imagen</td>
-            <td>Descripción</td>
-            <td>Nombre</td>
-            <td>Fecha</td>
+            <th>Titulo</th>
+            <th>Imagen</th>
+            <th>Descripción</th>
+            <th>Nombre</th>
+            <th>Fecha</th>
         </tr>
 
 <?php
