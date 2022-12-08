@@ -44,7 +44,7 @@
         include("ExamenP3-Registro.PHP");
     ?>
 
-
+*Nota; Warning: Undefined array key "XX" in C:\xampp... Aparece al iniciar el programa ya que registra los datos como vacios y proboca error, estos "Warnings" desaparecen al introducir datos al form.
 </body>
 </html>
 
