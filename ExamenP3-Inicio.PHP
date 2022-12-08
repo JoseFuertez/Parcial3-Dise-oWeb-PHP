@@ -17,6 +17,8 @@
     / Inicio /
     </h2>
    
+    <br>
+    <br>    
     <button class="button-59">
             <a href="P2-¿Quienes somos.html"> Repositorio de articulos </a>
     </button> 
