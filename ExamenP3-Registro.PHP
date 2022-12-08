@@ -1,6 +1,6 @@
 <?php 
 
-include("con_db.php");
+include_once("con_db.php");
 $Titulo = $_POST['Titulo'];
 $Imagen = $_POST['Imagen'];
 $Descripción = $_POST['Descripción'];
