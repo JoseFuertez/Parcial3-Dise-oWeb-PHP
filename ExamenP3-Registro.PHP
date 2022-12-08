@@ -1,10 +1,10 @@
 <?php 
 
 include("con_db.php");
-$Titulo = trim($_POST['Titulo']);
-$Imagen = trim($_POST['Imagen']);
-$Descripción = trim($_POST['Descripción']);
-$Nombre = trim($_POST['Nombre']);
+$Titulo = $_POST['Titulo'];
+$Imagen = $_POST['Imagen'];
+$Descripción = $_POST['Descripción'];
+$Nombre = $_POST['Nombre'];
 $Fecha = date("d/m/y");
 
 $consulta = "INSERT INTO datos(Titulo, Imagen, Descripción, Nombre, Fecha) VALUES ('$Titulo','$Imagen','$Descripción','$Nombre','$Fecha')";
