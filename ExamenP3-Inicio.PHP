@@ -9,11 +9,11 @@
 
 <header> 
     <h1 class="En">
-    Diseño web - Examen segundo parcial
+    Diseño web - Examen tercer parcial
     </h1>
 
     <h2 class="En2">
-    / Inicio /
+    / Registro de articulos /
     </h2>
    
     <br>    
@@ -29,7 +29,6 @@
     <form method="post">
         
     <h1> Blog de Jose Fuertes </h1>
-    <h3> Registro de articulos </h3>
 
     <input type="text" name="Titulo" placeholder="Titulo">
     <input type="text" name="Imagen" placeholder="URL de la imagen">
