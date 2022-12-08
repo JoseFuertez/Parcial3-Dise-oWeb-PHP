@@ -18,7 +18,7 @@
    
     <br>    
     <button class="button-59">
-            <a href="P2-¿Quienes somos.html"> Repositorio de articulos </a>
+            <a href="ExamenP3-Repositorio.PHP"> Repositorio de articulos </a>
     </button>
     <br>
     <br>
