@@ -7,6 +7,23 @@
     <link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 
+<header> 
+
+    <h1 class="En">
+    Diseño web - Examen segundo parcial
+    </h1>
+
+    <h2 class="En2">
+    / Inicio /
+    </h2>
+    <h2 class="En3">
+    Menu
+    </h2>
+
+    <hr>
+
+</header>
+
 <body>
 
         <button class="button-59">
