@@ -103,10 +103,15 @@ Css tabla
 table.paleBlueRows {
     font-family: Arial, Helvetica, sans-serif;
     border: 1px solid #FFFFFF;
+    padding: 50px 20px;
     width: 350px;
     height: 200px;
     text-align: center;
     border-collapse: collapse;
+    margin: calc(25% + 100px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 30px
   }
   table.paleBlueRows td, table.paleBlueRows th {
     border: 1px solid #FFFFFF;
