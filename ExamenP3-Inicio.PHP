@@ -17,9 +17,11 @@
     <input type="text" name="Imagen" placeholder="URL de la imagen">
     <input type="text" name="Descripción" placeholder="Descripción">
     <input type="text" name="Nombre" placeholder="Nombre del autor">
-    <input type="date" name="Fecha" placeholder="Fecha de publicación">
+    <input type="date" name="Fecha">
 
     <input type="submit" name="register">
+
+    <input type="submit" name="registerw">
 
     </form>
 
