@@ -16,8 +16,8 @@
     <input type="text" name="Titulo" placeholder="Titulo">
     <input type="text" name="Imagen" placeholder="URL de la imagen">
     <input type="text" name="Descripción" placeholder="Descripción">
-    <input type="text" name="Nombre del autor" placeholder="Nombre del autor">
-    <input type="date" name="Fecha de publicación" placeholder="Fecha de publicación">
+    <input type="text" name="Nombre" placeholder="Nombre del autor">
+    <input type="date" name="Fecha" placeholder="Fecha de publicación">
 
     <input type="submit" name="register">
 
