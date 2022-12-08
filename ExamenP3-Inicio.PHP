@@ -10,13 +10,14 @@
 <body>
     <form method="post">
         
-    <h1> Hello world </h1>
+    <h1> Blog de Jose Fuertes </h1>
+    <h3> Registro de articulos </h3>
 
     <input type="text" name="Titulo" placeholder="Titulo">
-    <input type="text" name="Imagen">
-    <input type="text" name="Descripción" placeholder="Titulo">
-    <input type="text" name="Nombre del autor" placeholder="Titulo">
-    <input type="text" name="Fecha de publicación" placeholder="Titulo">
+    <input type="text" name="Imagen" placeholder="URL de la imagen">
+    <input type="text" name="Descripción" placeholder="Descripción">
+    <input type="text" name="Nombre del autor" placeholder="Nombre del autor">
+    <input type="date" name="Fecha de publicación" placeholder="Fecha de publicación">
 
     <input type="submit" name="register">
 
