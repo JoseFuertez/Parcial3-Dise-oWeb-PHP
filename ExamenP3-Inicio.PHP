@@ -8,7 +8,6 @@
 </head>
 
 <header> 
-
     <h1 class="En">
     Diseño web - Examen segundo parcial
     </h1>
@@ -17,14 +16,12 @@
     / Inicio /
     </h2>
    
-    <br>
     <br>    
     <button class="button-59">
             <a href="P2-¿Quienes somos.html"> Repositorio de articulos </a>
-    </button> 
-
+    </button>
+    <br>
     <hr>
-
 </header>
 
 <body>
