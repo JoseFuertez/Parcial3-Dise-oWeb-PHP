@@ -34,11 +34,11 @@ $conexion=mysqli_connect('localhost','root','', 'registro')
     
     <table class="paleBlueRows">>
         <tr>
-            <th>Titulo</th>
-            <th>Imagen</th>
-            <th>Descripción</th>
-            <th>Nombre</th>
-            <th>Fecha</th>
+            <td>Titulo</td>
+            <td>Imagen</td>
+            <td>Descripción</td>
+            <td>Nombre</td>
+            <td>Fecha</td>
         </tr>
 
 <?php
