@@ -21,6 +21,7 @@
             <a href="P2-¿Quienes somos.html"> Repositorio de articulos </a>
     </button>
     <br>
+    <br>
     <hr>
 </header>
 
