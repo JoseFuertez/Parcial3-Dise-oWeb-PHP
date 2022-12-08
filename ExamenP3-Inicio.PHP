@@ -13,7 +13,7 @@
     </h1>
 
     <h2 class="En2">
-    / Registro de articulos /
+    / Blog de Jose Fuertes /
     </h2>
    
     <br>    
@@ -28,7 +28,7 @@
 <body>
     <form method="post">
         
-    <h1> Blog de Jose Fuertes </h1>
+    <h1> Registro de articulos </h1>
 
     <input type="text" name="Titulo" placeholder="Titulo">
     <input type="text" name="Imagen" placeholder="URL de la imagen">
