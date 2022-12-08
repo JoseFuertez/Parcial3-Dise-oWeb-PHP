@@ -32,7 +32,7 @@ $conexion=mysqli_connect('localhost','root','', 'registro')
 
 <body>
     
-    <table class="paleBlueRows">>
+    <table class="paleBlueRows">
         <tr>
             <td>Titulo</td>
             <td>Imagen</td>
