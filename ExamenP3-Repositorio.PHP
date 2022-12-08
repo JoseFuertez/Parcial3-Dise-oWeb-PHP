@@ -1,3 +1,8 @@
+<?php
+$conexion=mysqli_connect('localhost','root','', 'registro')
+?>
+
+
 <!DOCTYPE html>
 <html lang="es">
 
@@ -27,8 +32,34 @@
 
 <body>
     
-idk
+    <table>
+        <tr>
+            <td>Titulo</td>
+            <td>Imagen</td>
+            <td>Descripción</td>
+            <td>Nombre</td>
+            <td>Fecha</td>
+        </tr>
 
+<?php
+$sql="SELECT * from datos";
+$result=mysqli_query($conexion,$sql);
+
+while($mostrar=mysqli_fetch_array($result)){
+?>
+        <tr>
+            <td> <?php echo $mostrar['Titulo'] ?> </td>
+            <td> <?php echo $mostrar['Imagen'] ?> </td>
+            <td> <?php echo $mostrar['Descripción'] ?> </td>
+            <td> <?php echo $mostrar['Nombre'] ?> </td>
+            <td> <?php echo $mostrar['Fecha'] ?> </td>
+        </tr>
+
+<?php
+}
+?>
+
+    <table>
 </body>
 </html>
 
