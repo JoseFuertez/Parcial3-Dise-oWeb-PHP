@@ -8,6 +8,11 @@
 </head>
 
 <body>
+
+        <button class="button-59">
+            <a href="P2-¿Quienes somos.html"> Repositorio de articulos </a>
+        </button> 
+
     <form method="post">
         
     <h1> Blog de Jose Fuertes </h1>
@@ -27,9 +32,6 @@
         include("ExamenP3-Registro.PHP");
     ?>
 
-        <button class="button-59">
-            <a href="P2-¿Quienes somos.html"> Repositorio de articulos </a>
-        </button> 
 
 </body>
 </html>
